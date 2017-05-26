@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+    <item name="android:statusBarColor">#ff388E3C</item>
+    <item name="android:colorPrimary">#ff43A047</item>
+    <item name="android:navigationBarColor">#ff388E3C</item>
+    <item name="android:colorControlHighlight">#ff43A047</item>
+</style>
+    <style name="Red" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:statusBarColor">#ffE53935</item>
+        <item name="android:colorPrimary">#ffF44336</item>
+        <item name="android:navigationBarColor">#ffE53935</item>
+        <item name="android:colorControlHighlight">#ffF44336</item>
+        <item name="android:colorAccent">#ffE53935</item>
+    </style>
+    <style name="Grey" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:statusBarColor">#ff263238</item>
+        <item name="android:colorPrimary">#ff37474F</item>
+        <item name="android:navigationBarColor">#ff263238</item>
+        <item name="android:colorControlHighlight">#ff37474F</item>
+    </style>
+    <style name="Blue" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:statusBarColor">#ff1565C0</item>
+        <item name="android:colorPrimary">#ff1976D2</item>
+        <item name="android:navigationBarColor">#ff1565C0</item>
+        <item name="android:colorControlHighlight">#ff1976D2</item>
+        <item name="android:colorAccent">#ff1565C0</item>
+    </style>
+    <style name="Dark" parent="android:Theme.Material"></style>
+    <style name="AppThemeDialog" parent="android:Theme.Material.Light.Dialog">
+    </style>
+</resources>
