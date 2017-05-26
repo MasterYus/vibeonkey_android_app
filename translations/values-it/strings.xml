@@ -12,7 +12,7 @@
     <string name="access">Impostazioni Accessibilità</string>
     <string name="access_info">Il servizio deve essere attivato!</string>
     <string name="vibro">Vibrazione</string>
-    <string name="force">intensità</string>
+    <string name="force">Intensità</string>
     <string name="force_info">Imposta intensità vibrazione</string>
     <string name="version">Versione</string>
     <string name="ver_key" translatable="false">1.2.2</string>
