@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VibeOnKey</string>
+    <string name="accessibility_service_description">Sercizio VibeOnKey. Necessario per la gestione degli eventi.</string>
+    <string name="back">Tasto INDIETRO</string>
+    <string name="home">tasto HOME</string>
+    <string name="volume">Tasti VOLUME</string>
+    <string name="keychoice">Abilita vibrazione per</string>
+    <string name="menu">Tasto MENU</string>
+    <string name="power">Tasto ACCENSIONE</string>
+    <string name="access">Impostazioni Accessibilità</string>
+    <string name="access_info">Il servizio deve essere attivato!</string>
+    <string name="vibro">Vibrazione</string>
+    <string name="force">Intensità</string>
+    <string name="force_info">Imposta intensità vibrazione</string>
+    <string name="version">Versione</string>
+    <string name="ver_key" translatable="false">1.2.2</string>
+    <string name="author">Autore</string>
+    <string name="author_key">MasterYus @4PDA 2016-2017</string>
+    <string name="categ_on">ACCESO/SPENTO</string>
+    <string name="categ_vibro">Vibrazione</string>
+    <string name="categ_about">Informazioni</string>
+    <string name="key">Tasti</string>
+    <string name="warn">Sperimentale!Indpendente dal modello!</string>
+    <string name="recents">Tasto ATTIVITÀ</string>
+    <string name="source">Open Sources</string>
+    <string name="source_info">Questa applicazione è opensource!(Link a Github)</string>
+    <string name="key_disabler">Disabilita Tasti</string>
+    <string name="key_disabler_info">Disabilita vibr. per tasto Indietro se viene premuto Home! (Evita doppia vibrazione)</string>
+    <string name="theme">Tema</string>
+    <string name="theme_info">Seleziona tema</string>
+    <string name="red">Rosso</string>
+    <string name="blue">Blu</string>
+    <string name="grey">Grigio</string>
+    <string name="green">Verde</string>
+    <string name="onkey">Vibra per</string>
+    <string name="onkey_title" translatable="false"></string>
+    <string name="tap">Tocco</string>
+    <string name="release">Rilascio</string>
+    <string name="dark">Scuro</string>
+    <string name="sound">Suono</string>
+    <string name="sound_info">Suono per tocco</string>
+    <string name="title_activity_stats">Statistiche</string>
+    <string name="hello_world" translatable="false">Ciao Mondo!</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="add">informazioni aggiuntive...</string>
+    <string name="pref_title_vibrate" translatable="false"></string>
+    <string name="gd_txt1">Benvenuto! Questa è una semplice guida per VibeOnKey - l'app per aggiungere e gestire la vibrazione per i tasti del tuo telefono.</string>
+    <string name="gd_txt2">Basso comsumo di risorse! Non serve ROOT!</string>
+    <string name="gd_txt3">1 - Impostazioni di accessibilità (link alle Impostazioni). Attiva il servizio qua!\n2 - Tasti. Seleziona i tasti qua. \n3 - Seleziona l'intensità della vibrazione.</string>
+    <string name="gd_txt4">Guida rapida completata!\nBuona fortuna!</string>
+    <string name="skip">SALTA</string>
+    <string name="next">SUCCESSIVO</string>
+    <string name="close">CHIUDI</string>
+    <string name="guide">Guida</string>
+    <string name="guide_sum">Tocca per aprire la guida</string>
+    <string name="myvalue">Valore personalizzato</string>
+    <string name="myvalue_check">Usa un valore personalizzato</string>
+    <string name="myvalue_sum">Inserisci valore (0-250)</string>
+    <string name="myvalue_check_sum">Consente inserimento valore</string>
+    <string name="onscreen">Vibrazione Schermo</string>
+    <string name="onscreen_sum">Vibra quando si tocca lo schermo</string>
+    <string name="icon">Cambia icona</string>
+    <string name="icon_sum">Imposta icona rossa</string>
+    <string name="reset">Reset statistiche?</string>
+    <string name="sure">Sicuro?</string>
+    <string name="cancel">Annulla</string>
+    <string name="yes">Sì</string>
+
+</resources>

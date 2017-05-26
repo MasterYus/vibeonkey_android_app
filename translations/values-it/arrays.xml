@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="text_style">
+    <item>@string/green</item>
+    <item>@string/grey</item>
+    <item>@string/blue</item>
+    <item>@string/red</item>
+    <item>@string/dark</item>
+
+</string-array>
+    <string-array name="values" translatable="false">
+        <item>green</item>
+        <item>grey</item>
+        <item>blue</item>
+        <item>red</item>
+        <item>dark</item>
+    </string-array>
+    <string-array name="onkey">
+        <item>@string/tap</item>
+        <item>@string/release</item>
+    </string-array>
+    <string-array name="onkey_values" translatable="false">
+        <item>tap</item>
+        <item>release</item>
+    </string-array>
+</resources>
