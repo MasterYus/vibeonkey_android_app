@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_dark">#ff388E3C</color>
+    <color name="accent_grey">#ff37474F</color>
+    <color name="accent_green">#ff388E3C</color>
+    <color name="accent_red">#ffE53935</color>
+    <color name="accent_blue">#ff1565C0</color>
+    <color name="gd1">#546E7A</color>
+    <color name="gd2">#303F9F</color>
+    <color name="gd3">#004D40</color>
+    <color name="gd4">#ff388E3C</color>
+
+</resources>
