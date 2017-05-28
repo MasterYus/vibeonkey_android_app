@@ -27,7 +27,7 @@
     <string name="source">Açık Kaynaklı</string>
     <string name="source_info">Bu uygulama açık kaynaklıdır!(Github link)</string>
     <string name="key_disabler">Tuş Engelleyici</string>
-    <string name="key_disabler_info">Eğer ana ekran tuşuna basılı ise geri tuşunun titreşimidevre dışı bırakır (Çift titreşimi engeller)</string>
+    <string name="key_disabler_info">Eğer ana ekran tuşuna basılı ise geri tuşunun titreşimini devre dışı bırakır (Çift titreşimi engeller)</string>
     <string name="theme">Tema</string>
     <string name="theme_info">Uygulama temasını seçin</string>
     <string name="red">Kırmızı</string>
