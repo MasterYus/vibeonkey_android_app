@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VibeOnKey</string>
+    <string name="accessibility_service_description">VibeOnKey hizmeti. Tuş izinleri için gereklidir.</string>
+    <string name="back">GERİ tuşu</string>
+    <string name="home">ANA EKRAN tuşu</string>
+    <string name="volume">SES tuşları</string>
+    <string name="keychoice">Titreşim istediğin tuşu seçin</string>
+    <string name="menu">MENU key</string>
+    <string name="power">GÜÇ tuşu</string>
+    <string name="access">Erişebilirlik Ayarları</string>
+    <string name="access_info">Hizmet etkinleştirilmiş olmalıdır!</string>
+    <string name="vibro">Titreşim</string>
+    <string name="force">Güç</string>
+    <string name="force_info">Titreşim gücünü ayarlayın</string>
+    <string name="version">Versiyon</string>
+    <string name="ver_key" translatable="false">1.2.2</string>
+    <string name="author">Geliştirici</string>
+    <string name="author_key">MasterYus @4PDA 2016-2017</string>
+    <string name="categ_on">AÇIK/KAPALI</string>
+    <string name="categ_vibro">Titreşim</string>
+    <string name="categ_about">Hakkında</string>
+    <string name="key">Tuşlar</string>
+    <string name="warn">Deneysel!Her cihazda çalışmayabilir!</string>
+    <string name="recents">SON UYGULAMALAR tuşu</string>
+    <string name="source">Açık Kaynaklı</string>
+    <string name="source_info">Bu uygulama açık kaynaklıdır!(Github link)</string>
+    <string name="key_disabler">Tuş Engelleyici</string>
+    <string name="key_disabler_info">Eğer ana ekran tuşuna basılı ise geri tuşunun titreşimidevre dışı bırakır (Çift titreşimi engeller)</string>
+    <string name="theme">Tema</string>
+    <string name="theme_info">Uygulama temasını seçin</string>
+    <string name="red">Kırmızı</string>
+    <string name="blue">Mavi</string>
+    <string name="grey">Gri</string>
+    <string name="green">Yeşil</string>
+    <string name="onkey">Titreşimin ne zaman olacağını seçin</string>
+    <string name="onkey_title" translatable="false"></string>
+    <string name="tap">Tıklanılınca</string>
+    <string name="release">Bıraktılınca</string>
+    <string name="dark">Karanlık</string>
+    <string name="sound">Ses</string>
+    <string name="sound_info">Ekrana tıkladığınızda ses çıkartır</string>
+    <string name="title_activity_stats">İstatistikler</string>
+    <string name="hello_world" translatable="false">Merhaba Dünya!</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="add">Ek Bilgiler...</string>
+    <string name="pref_title_vibrate" translatable="false"></string>
+    <string name="gd_txt1">Hoşgeldiniz! Bu VibeOnKey başlangıç kılavuzudur - Telefonunuzun donanım tuşlarına titreşim eklemeye ve yönetmeye yarayan bir uygulama.</string>
+    <string name="gd_txt2">Cihazınızı yormaz! ROOT gerektirmez!</string>
+    <string name="gd_txt3">1 - Erişebilirlik Ayarları (link to Setting). Hizmeti buradan etkinleştirin!\n2 - Tuşlar. Tuşları buradan seçin. \n3 - Titreşim gücünü seçin..</string>
+    <string name="gd_txt4">Hızlı ayarlar tamamlandı!\nGüle güle kullanın!</string>
+    <string name="skip">ATLA</string>
+    <string name="next">İLERİ</string>
+    <string name="close">KAPAT</string>
+    <string name="guide">Başlangıç Kılavuzu</string>
+    <string name="guide_sum">Başlangıç kılavuzunu açmak için tıklayın</string>
+    <string name="myvalue">Değeriniz</string>
+    <string name="myvalue_check">Kendiniz değer ayarlayın</string>
+    <string name="myvalue_sum">Değerinizi girin (0-250)</string>
+    <string name="myvalue_check_sum">Kendiniz değer ayarlamayı etkinleştirir</string>
+    <string name="onscreen">Ekran titreşimi</string>
+    <string name="onscreen_sum">Ekrana dokunduğunuzda titreşim verir</string>
+    <string name="icon">Simge değiştir</string>
+    <string name="icon_sum">Kırmızı simgeyi etkinleştir</string>
+    <string name="reset">İstatistikleri sıfırla?</string>
+    <string name="sure">Emin misin?</string>
+    <string name="cancel">İptal</string>
+    <string name="yes">Evet</string>
+
+</resources>
