@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VibeOnKey</string>
+    <string name="accessibility_service_description">Servizio di VibeOnKey. Necessario per rilevare le pressioni dei tasti.</string>
+    <string name="back">tasto INDIETRO</string>
+    <string name="home">tasto HOME</string>
+    <string name="volume">tasti del VOLUME</string>
+    <string name="keychoice">Scegliere i tasti che si dovranno vibrare</string>
+    <string name="menu">tasto MENU</string>
+    <string name="power">tasto di ACCENSIONE</string>
+    <string name="access">Impostazioni Accessibilità</string>
+    <string name="access_info">Il servizio dovrebbe essere attivato!</string>
+    <string name="vibro">Vibrazione</string>
+    <string name="force">Intensità</string>
+    <string name="force_info">Impostare l'intensità della vibrazione</string>
+    <string name="version">Versione</string>
+    <string name="ver_key" translatable="false">1.2.2</string>
+    <string name="author">Sviluppatore</string>
+    <string name="author_key">MasterYus @4PDA 2016-2017</string>
+    <string name="categ_on">ON/OFF</string>
+    <string name="categ_vibro">Vibratione</string>
+    <string name="categ_about">Informazioni</string>
+    <string name="key">Tasti</string>
+    <string name="warn">Sperimentale!Il funzionamento varia in base al dispositivo in uso!</string>
+    <string name="recents">tasto RECENTI</string>
+    <string name="source">Codice Sorgente</string>
+    <string name="source_info">Lo sviluppatore mette a disposizione il codice sorgente!(link della pagina Github)</string>
+    <string name="key_disabler">Blocca tasto</string>
+    <string name="key_disabler_info">Blocca la vibrazione del tasto indietro se il tasto home è premuto(Evita una doppia vibrazione)</string>
+    <string name="theme">Tema</string>
+    <string name="theme_info">Scegliere il tema dell'app</string>
+    <string name="red">Rosso</string>
+    <string name="blue">Blu</string>
+    <string name="grey">Grigio</string>
+    <string name="green">Verde</string>
+    <string name="onkey">Vibra al</string>
+    <string name="onkey_title" translatable="false"></string>
+    <string name="tap">Tocco</string>
+    <string name="release">Rilascio</string>
+    <string name="dark">Scuro</string>
+    <string name="sound">Suonoo</string>
+    <string name="sound_info">Produrre un suono alla pressione</string>
+    <string name="title_activity_stats">Statistiche</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="add">Informazioni aggiuntive...</string>
+    <string name="pref_title_vibrate" translatable="false"></string>
+    <string name="gd_txt1">Benvenuto! Questa è una piccola guida per VibeOnKey - l'app per aggiungere e gestire delle vibrazioni per i tasti hardware del tuo dispositivo.</string>
+    <string name="gd_txt2">Consumo di risorve bassissimo! Non necessita i permessi di ROOT!</string>
+    <string name="gd_txt3">1 - Impostazioni Accessibilità (collegamento alle impostazioni). Abilita il servizio!\n2 - Tasti. Seleziona i tasti. \n3 - Imposta l'intensità della vibrazione.</string>
+    <string name="gd_txt4">Finito!\nDivertiti!</string>
+    <string name="skip">SALTA</string>
+    <string name="next">PROSEGUI</string>
+    <string name="close">CHIUDI</string>
+    <string name="guide">Guida</string>
+    <string name="guide_sum">Cliccare per avviare la guida</string>
+    <string name="myvalue">Valore a scelta</string>
+    <string name="myvalue_check">Usa un valore a scelta</string>
+    <string name="myvalue_sum">Inserisci qui il valore (0-250)</string>
+    <string name="myvalue_check_sum">Abilita l'utilizzo</string>
+    <string name="onscreen">Vibrazione schermo</string>
+    <string name="onscreen_sum">Vibra durante un tocco dello schermo</string>
+    <string name="icon">Cambia icona</string>
+    <string name="icon_sum">Usa l'icona rossa</string>
+    <string name="reset">Ripristinare le statistiche?</string>
+    <string name="sure">Sei sicuro?</string>
+    <string name="cancel">Annula</string>
+    <string name="yes">Si</string>
+
+</resources>
